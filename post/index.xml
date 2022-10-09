@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on George</title>
-    <link>http://124.221.180.171/post/</link>
+    <link>/post/</link>
     <description>Recent content in Posts on George</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Oct 2021 15:27:07 +0800</lastBuildDate><atom:link href="http://124.221.180.171/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Oct 2021 15:27:07 +0800</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
-      <link>http://124.221.180.171/post/first/</link>
+      <link>/post/first/</link>
       <pubDate>Sat, 09 Oct 2021 15:27:07 +0800</pubDate>
       
-      <guid>http://124.221.180.171/post/first/</guid>
+      <guid>/post/first/</guid>
       <description>This is the first articleasdfsdf</description>
     </item>
     
